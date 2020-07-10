@@ -1,0 +1,1 @@
+Modificación de clses bootstrap de un elemento utilizando VUE

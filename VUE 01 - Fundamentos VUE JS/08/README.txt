@@ -1,0 +1,1 @@
+Se trabajan con arreglos, se invierte texto y se trabaja con un progressbar.

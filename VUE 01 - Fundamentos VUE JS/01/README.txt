@@ -1,0 +1,1 @@
+Relación html con objetos declarados en .js, actualización de interfaces utilizando VUE
